@@ -17,4 +17,5 @@ Mediapipe!.ipynb:
   MediaPipe is an open-source framework developed by Google that allows you to easily add real-time computer vision and machine learning features to your code. This is a file that shows a frame drawn on top of an image of a person.
   current status:[in progress] I'm not done experimenting just yet!
 OpenCV.ipynb:
-  OpenCV is used for low-level image processing, such as rotation, brighteneing a webcam feed, greyscale, etc. I've used it in projects such as 
+  OpenCV is used for low-level image processing, such as rotation, brighteneing a webcam feed, greyscale, etc. I've used it in projects such as my ASL project, where I used it to predict fingerspelling signs.
+  current status:[completed]. I've moved on to things like Mediapipe :)
